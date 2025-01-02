@@ -5,7 +5,7 @@ Salt batteries are emerging as a potential game-changer in energy storage techno
 ---
 
 ## What Are Salt Batteries?
-![Salt Battery](./nature.png)
+![Salt Battery]{https://github.com/NiranjanaReddy/Article/blob/main/nature.png}
 
 
 Salt batteries are a type of electrochemical energy storage system that uses salts, often in the form of sodium (Na\+), as the primary charge carrier. Unlike lithium-ion batteries that rely on lithium (Li\+), salt batteries use more abundant and less expensive materials, making them an attractive alternative for large-scale energy storage applications.
