@@ -79,7 +79,7 @@ For salt-based batteries to become commercially viable, the production process n
 ---
 
 ## How Salt Batteries are Better Than Lithium-Ion Batteries
-![ Comparison of Lithium-Ion and Salt Batteries](./NavsLi.png)
+![ Comparison of Lithium-Ion and Salt Batteries](https://github.com/NiranjanaReddy/Article/blob/main/NavsLi.png)
 
 
 ### 1. **Cost-Effectiveness**
