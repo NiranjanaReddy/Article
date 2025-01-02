@@ -39,7 +39,7 @@ One of the challenges faced by lithium-ion batteries is their efficiency drop at
 ## Current Stage of Research
 
 Salt batteries, particularly sodium-ion batteries, are still in the research and development phase. While they are not yet as commercially viable as lithium-ion batteries, several breakthroughs have been made in recent years:
-![Structure of a Salt Battery](./Structure.jpeg)
+![Structure of a Salt Battery](https://github.com/NiranjanaReddy/Article/blob/main/Structure.jpeg)
 
 
 ### 1. **Improved Performance**
